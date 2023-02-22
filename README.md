@@ -1,6 +1,6 @@
 # Stepso6
 
-Stepso6 is a video game based on StepMania, developed using the LUA programming language and the Löve2D framework. This game was created during my first year of programming study and is designed for use on displays with a minimum resolution of 1280x720 and a 16:9 aspect ratio.
+Stepso6 is a video game based on StepMania, developed using the LUA programming language and the Löve2D framework. This game was created in January 2019, during my first year of studying programming and is designed for use on displays with a minimum resolution of 1280x720 and a 16:9 aspect ratio.
 
 ## Installation
 
