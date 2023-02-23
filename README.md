@@ -6,7 +6,7 @@ Stepso6 is a video game based on StepMania, developed using the LUA programming 
 
 To play Stepso6, you will need to install the LÖVE framework. You can download the latest version of LÖVE from the official website at https://love2d.org/.
 
-Once you have installed Löve2D, you can download or clone this repository.
+Once you have installed LÖVE, you can download or clone this repository.
 
 ## Usage
 
