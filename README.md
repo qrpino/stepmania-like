@@ -22,14 +22,14 @@ This will launch the game using the Löve2D framework.
 
 ## Controls and options
 
-You can navigate through the interface using the mouse, and select a song by clicking on it. During gameplay, you can use the arrow keys :keycap_left: | :keycap_up: | keycap_right: | :keycap_down: to match the current note.
-The game can be paused at any time by pressing the :key_escape: key. You can also toggle fullscreen, change de volume and the difficulty in the settings menu. 
+You can navigate through the interface using the **mouse**, and select a song with the **left** and **right** keys a song by clicking on it. During gameplay, you can use the **arrow** keys to match the current note.
+The game can be paused at any time by pressing the **Escape** key. You can also toggle fullscreen, change de volume and the difficulty in the settings menu. 
 
 ## License
 
 This game is released under the [MIT License](https://opensource.org/license/mit/), with the exception of any non-free and non-original assets that may be included, such as songs and pictures. Please note that the use of such assets without permission may result in legal consequences. By using this game, you acknowledge that you are responsible for obtaining any necessary licenses or permissions for non-free and non-original assets.
 
-Please note that the game developer does not own the rights to these assets and cannot grant permission for their use. It is your responsibility to obtain the necessary permissions or licenses for the use of these assets.
+Please note that I do not own the rights to these assets and cannot grant permission for their use. It is your responsibility to obtain the necessary permissions or licenses for the use of these assets.
 
-Feel free to use, modify, and distribute the game code as you see fit, in accordance with the terms of the MIT License. However, please give credit to the original developer if you choose to do so.
+Feel free to use, modify, and distribute the game code as you see fit, in accordance with the terms of the MIT License.
 
