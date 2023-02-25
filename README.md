@@ -23,7 +23,7 @@ This will launch the game using the Löve2D framework.
 ## Controls and options
 
 You can navigate through the interface using the **mouse**, and select a song with the **left** and **right** keys a song by clicking on it. During gameplay, you can use the **arrow** keys to match the current note.
-The game can be paused at any time by pressing the **Escape** key. You can also toggle fullscreen, change de volume and the difficulty in the settings menu. 
+The game can be paused at any time by pressing the **Escape** key. You can also toggle fullscreen, change the volume and the difficulty in the settings menu. 
 
 ## License
 
